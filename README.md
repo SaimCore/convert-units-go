@@ -1,12 +1,12 @@
-# go-convert-units ✨
-go-convert-units is a Go package designed to simplify conversions between units of measurement, including weight, length, and temperature. It provides a user-friendly interface for developers to convert values ​​between different units.
+# convert-units-go ✨
+convert-units-go is a Go package designed to simplify conversions between units of measurement, including weight, length, and temperature. It provides a user-friendly interface for developers to convert values ​​between different units.
 
-[![Go Report Card](https://goreportcard.com/badge/PurinPintakhiew/go-convert-units)](https://goreportcard.com/report/PurinPintakhiew/go-convert-units) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/PurinPintakhiew/go-convert-units/blob/main/LICENSE)
+[![Go Report Card](https://goreportcard.com/badge/SaimCore/convert-units-go)](https://goreportcard.com/report/SaimCore/convert-units-go) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SaimCore/convert-units-go/blob/main/LICENSE)
 
 
 ## Install 🛠️
 ```
-go get github.com/PurinPintakhiew/go-convert-units
+go get github.com/SaimCore/convert-units-go
 ```
 ## How to use💡
 ```
@@ -15,9 +15,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/PurinPintakhiew/go-convert-units/convert/length"
-	"github.com/PurinPintakhiew/go-convert-units/convert/temperature"
-	"github.com/PurinPintakhiew/go-convert-units/convert/weight"
+	"github.com/SaimCore/convert-units-go/convert/length"
+	"github.com/SaimCore/convert-units-go/convert/temperature"
+	"github.com/SaimCore/convert-units-go/convert/weight"
 )
 
 func main() {
