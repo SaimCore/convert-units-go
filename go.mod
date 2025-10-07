@@ -1,3 +1,3 @@
-module github.com/PurinPintakhiew/go-convert-units
+module github.com/SaimCore/convert-units-go
 
-go 1.23.0
+go 1.25.1
